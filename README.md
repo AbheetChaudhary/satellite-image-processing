@@ -10,4 +10,13 @@ Running from executable:
 Running from code directly:
     Run 'python assignment.py' in the directory 
     Follow input format mentioned in above section.
-    
+
+### Results
+<img src="/original/orig1.png" alt="original 1" style="display: inline-block; margin: 0 auto; max-width: 250px">
+<img src="/final/res1.png" alt="result 1" style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img src="/original/orig2.png" alt="original 2" style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img src="/final/res2.png" alt="result 2" style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img src="/original/orig3.png" alt="original 3" style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img src="/final/res3.png" alt="result 3" style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img src="/original/orig4.png" alt="original 4" style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img src="/final/res4.png" alt="result 4" style="display: inline-block; margin: 0 auto; max-width: 300px">
